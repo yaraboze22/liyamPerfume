@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Perfume Paradise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail">Detail</string>
+    <string name="for_men">For Men</string>
+    <string name="eternity">Eternity</string>
+    <string name="ck">CK</string>
+    <string name="view_cart">View cart</string>
+    <string name="name">name</string>
+    <string name="favorites">Favorites</string>
+    <string name="perfume_paradise">Perfume Paradise</string>
+    <string name="you_can_get_the_best_perfume_here">You can get the best perfume here</string>
+</resources>
