@@ -1,0 +1,43 @@
+com.example.yaredperfume.app-core-1.9.0-0 C:\Users\yared\.gradle\caches\transforms-4\0483f0b39ffb60b1ec31855cf95da0ad\transformed\core-1.9.0\res
+com.example.yaredperfume.app-emoji2-views-helper-1.2.0-1 C:\Users\yared\.gradle\caches\transforms-4\059c8d2a5d36b55f64f5f12a626aae08\transformed\emoji2-views-helper-1.2.0\res
+com.example.yaredperfume.app-glide-4.11.0-2 C:\Users\yared\.gradle\caches\transforms-4\0bc30cbf69d2059ecaf90c65dce10937\transformed\glide-4.11.0\res
+com.example.yaredperfume.app-savedstate-1.2.1-3 C:\Users\yared\.gradle\caches\transforms-4\17724bfe190d5b0dafef2f2228f4a2eb\transformed\savedstate-1.2.1\res
+com.example.yaredperfume.app-lifecycle-livedata-2.6.1-4 C:\Users\yared\.gradle\caches\transforms-4\18b364287d2370fd2360a4f56e19a314\transformed\lifecycle-livedata-2.6.1\res
+com.example.yaredperfume.app-browser-1.4.0-5 C:\Users\yared\.gradle\caches\transforms-4\3bfa6bb1de125e27df406bb69d0d8b4b\transformed\browser-1.4.0\res
+com.example.yaredperfume.app-appcompat-resources-1.6.1-6 C:\Users\yared\.gradle\caches\transforms-4\3dbecd6275f410e3ac076edf3449b078\transformed\appcompat-resources-1.6.1\res
+com.example.yaredperfume.app-material-1.10.0-7 C:\Users\yared\.gradle\caches\transforms-4\3dc5b3e270c154e2506bfc33bc040f0c\transformed\material-1.10.0\res
+com.example.yaredperfume.app-profileinstaller-1.3.0-8 C:\Users\yared\.gradle\caches\transforms-4\3fc23c9a9fae07b7bd2b99878af935d0\transformed\profileinstaller-1.3.0\res
+com.example.yaredperfume.app-lifecycle-runtime-2.6.1-9 C:\Users\yared\.gradle\caches\transforms-4\5563914738e6a63a12c0be1cd090602b\transformed\lifecycle-runtime-2.6.1\res
+com.example.yaredperfume.app-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\yared\.gradle\caches\transforms-4\5a2204a4d39d25ed9b9824c88f12597f\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.yaredperfume.app-viewpager2-1.0.0-11 C:\Users\yared\.gradle\caches\transforms-4\691d947907f2351972c320a55014a2f4\transformed\viewpager2-1.0.0\res
+com.example.yaredperfume.app-activity-1.8.0-12 C:\Users\yared\.gradle\caches\transforms-4\704cb28e9b081c8d13e0f85b58d037f8\transformed\activity-1.8.0\res
+com.example.yaredperfume.app-play-services-base-18.1.0-13 C:\Users\yared\.gradle\caches\transforms-4\77b6ce53a3b0c1defe856364fc29f9ca\transformed\play-services-base-18.1.0\res
+com.example.yaredperfume.app-play-services-basement-18.3.0-14 C:\Users\yared\.gradle\caches\transforms-4\781d1c1db8f1fb56b5f6e5f70ad93daf\transformed\play-services-basement-18.3.0\res
+com.example.yaredperfume.app-annotation-experimental-1.3.0-15 C:\Users\yared\.gradle\caches\transforms-4\94404fecff909a96f07cc60510c24cbd\transformed\annotation-experimental-1.3.0\res
+com.example.yaredperfume.app-credentials-1.2.0-rc01-16 C:\Users\yared\.gradle\caches\transforms-4\9dc3c9f8e7c53085d08340075b7102fd\transformed\credentials-1.2.0-rc01\res
+com.example.yaredperfume.app-lifecycle-process-2.6.1-17 C:\Users\yared\.gradle\caches\transforms-4\a1d9af572cd5a8c2fa2434ec87d8e40a\transformed\lifecycle-process-2.6.1\res
+com.example.yaredperfume.app-coordinatorlayout-1.1.0-18 C:\Users\yared\.gradle\caches\transforms-4\a79f0eadaae9985a4d0315d3f45ce336\transformed\coordinatorlayout-1.1.0\res
+com.example.yaredperfume.app-core-ktx-1.9.0-19 C:\Users\yared\.gradle\caches\transforms-4\a863b921e9fa0afcab7baef125a90d09\transformed\core-ktx-1.9.0\res
+com.example.yaredperfume.app-constraintlayout-2.1.4-20 C:\Users\yared\.gradle\caches\transforms-4\b09c78544128899073c75e4f99d477f4\transformed\constraintlayout-2.1.4\res
+com.example.yaredperfume.app-lifecycle-livedata-core-2.6.1-21 C:\Users\yared\.gradle\caches\transforms-4\b10ecbcbbf97b44d24787b979ccf2861\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.yaredperfume.app-appcompat-1.6.1-22 C:\Users\yared\.gradle\caches\transforms-4\baa58fe309976062da5eff2e03d0c931\transformed\appcompat-1.6.1\res
+com.example.yaredperfume.app-emoji2-1.2.0-23 C:\Users\yared\.gradle\caches\transforms-4\bd6c9008e8f93404658015e31fc48a33\transformed\emoji2-1.2.0\res
+com.example.yaredperfume.app-cardview-1.0.0-24 C:\Users\yared\.gradle\caches\transforms-4\c034512dbbc6208a1bcf58bcae8d620d\transformed\cardview-1.0.0\res
+com.example.yaredperfume.app-transition-1.2.0-25 C:\Users\yared\.gradle\caches\transforms-4\c5edb7c446e742a82db08e08b1d23ba5\transformed\transition-1.2.0\res
+com.example.yaredperfume.app-play-services-auth-20.7.0-26 C:\Users\yared\.gradle\caches\transforms-4\c868efab0b97c5812fd8d31f25e860e4\transformed\play-services-auth-20.7.0\res
+com.example.yaredperfume.app-recyclerview-1.2.1-27 C:\Users\yared\.gradle\caches\transforms-4\cac70eda696371478e85b067098dd2d2\transformed\recyclerview-1.2.1\res
+com.example.yaredperfume.app-startup-runtime-1.1.1-28 C:\Users\yared\.gradle\caches\transforms-4\d822d40a8fade8d8d127cf36d03dd7fa\transformed\startup-runtime-1.1.1\res
+com.example.yaredperfume.app-lifecycle-viewmodel-2.6.1-29 C:\Users\yared\.gradle\caches\transforms-4\e4b1592d905f62f4b12ca9916d3a2838\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.yaredperfume.app-fragment-1.3.6-30 C:\Users\yared\.gradle\caches\transforms-4\eb06535350268df9d85ba7897f6be38c\transformed\fragment-1.3.6\res
+com.example.yaredperfume.app-firebase-common-21.0.0-31 C:\Users\yared\.gradle\caches\transforms-4\f4cf8b3e2849a0e477efecf21f85b4bc\transformed\firebase-common-21.0.0\res
+com.example.yaredperfume.app-drawerlayout-1.1.1-32 C:\Users\yared\.gradle\caches\transforms-4\f54c14bcd91ca67dbe718eba4d3c2db7\transformed\drawerlayout-1.1.1\res
+com.example.yaredperfume.app-credentials-play-services-auth-1.2.0-rc01-33 C:\Users\yared\.gradle\caches\transforms-4\fa8b460f27c8b4be90d9160ab834e88c\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.yaredperfume.app-core-runtime-2.2.0-34 C:\Users\yared\.gradle\caches\transforms-4\fe049a533d0f368591258a62a8b4ee5f\transformed\core-runtime-2.2.0\res
+com.example.yaredperfume.app-pngs-35 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\generated\res\pngs\debug
+com.example.yaredperfume.app-res-36 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\generated\res\processDebugGoogleServices
+com.example.yaredperfume.app-resValues-37 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\generated\res\resValues\debug
+com.example.yaredperfume.app-packageDebugResources-38 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.yaredperfume.app-packageDebugResources-39 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.yaredperfume.app-debug-40 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.yaredperfume.app-debug-41 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\src\debug\res
+com.example.yaredperfume.app-main-42 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\src\main\res

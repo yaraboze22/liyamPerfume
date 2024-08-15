@@ -1,0 +1,6 @@
+com.example.yaredperfume.test.app-core-1.5.0-0 C:\Users\yared\.gradle\caches\transforms-4\8857aa988ed78db903ff456abff198b9\transformed\core-1.5.0\res
+com.example.yaredperfume.test.app-annotation-experimental-1.3.0-1 C:\Users\yared\.gradle\caches\transforms-4\94404fecff909a96f07cc60510c24cbd\transformed\annotation-experimental-1.3.0\res
+com.example.yaredperfume.test.app-androidTest-2 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\generated\res\resValues\androidTest\debug
+com.example.yaredperfume.test.app-mergeDebugAndroidTestResources-3 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.yaredperfume.test.app-mergeDebugAndroidTestResources-4 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.yaredperfume.test.app-debugAndroidTest-5 C:\Users\yared\Desktop\yared perfume\yaredperfume\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
