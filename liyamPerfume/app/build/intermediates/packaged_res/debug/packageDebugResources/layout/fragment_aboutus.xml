@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.aboutus"
+    android:background="#ECEAEA">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp"
+        >
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image"
+            android:layout_gravity="center_horizontal"/>
+        <!-- Header -->
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingBottom="16dp"
+            android:text="About Us"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+
+        <!-- Introduction -->
+        <TextView
+            android:id="@+id/introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16dp"
+            android:text="Welcome to Perfume Paradise, where we bring you the finest fragrances from around the world."
+            android:textSize="16sp" />
+
+        <!-- Our Story -->
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/our_story_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:text="Our Story"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/our_story_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16dp"
+            android:text="Perfume Paradise was born out of a passion for captivating scents. Our journey began in 2020, with the goal of bringing unique and luxurious fragrances to enthusiasts everywhere."
+            android:textSize="16sp" />
+
+        <!-- Our Collection -->
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/our_collection_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:text="Our Collection"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/our_collection_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="16dp"
+            android:text="We offer an exquisite range of perfumes that cater to diverse tastes and preferences. From classic to contemporary, every bottle is crafted with the utmost care and attention to detail."
+            android:textSize="16sp" />
+
+        <!-- Customer Commitment -->
+
+        <!-- Contact Information -->
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/contact_info_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:text="Contact Us"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+        <TextView
+                        android:id="@+id/contact_info_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Email: info@perfumeparadise.com\nPhone: +111 123 456 789\nFollow us on social media: @perfumeparadise"
+                        android:textSize="16sp"
+                        android:paddingBottom="16dp"/>
+
+                <!-- Location -->
+                <TextView
+                                android:id="@+id/location_header"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Our Location"
+                                android:textSize="18sp"
+                                android:textStyle="bold"
+                                android:paddingBottom="8dp"
+                                android:layout_gravity="center_horizontal"
+                                android:textColor="@color/black"
+                    />
+
+                <TextView
+                                android:id="@+id/location_content"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="123 Perfume Street, NY, USA"
+                                android:textSize="16sp"
+                                android:paddingBottom="16dp"/>
+    </LinearLayout>
+
+</FrameLayout>
