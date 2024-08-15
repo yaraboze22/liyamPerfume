@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "158488798307",
-    "project_id": "perfume-store-28f3f",
-    "storage_bucket": "perfume-store-28f3f.appspot.com"
+    "project_number": "770208825104",
+    "project_id": "perfume-350ed",
+    "storage_bucket": "perfume-350ed.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:158488798307:android:adae7967c33cd93080c456",
+        "mobilesdk_app_id": "1:770208825104:android:a2d9e92ac71a9a2968af95",
         "android_client_info": {
           "package_name": "com.example.yaredperfume"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDhIa5NMD6yCs9cMTL-z233WoLP1QoxUqs"
+          "current_key": "AIzaSyDuQYOFlXTBtENjLJU0inLBYQ37njN_wyI"
         }
       ],
       "services": {
